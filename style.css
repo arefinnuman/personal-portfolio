@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.teel-color{
+    color: #9CB4CC;
+}
+.half-width{
+    width: 50%;
+    padding: 30px;
+}
+.half-width img{
+    width: 100%;
+
+}
+.flexible-container{
+    display: flex;
+}
+.hire-me{
+    background-color: #abe9cd;
+    background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+    padding: 12px 35px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
