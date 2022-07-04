@@ -8,6 +8,7 @@ body{
 .half-width{
     width: 50%;
     padding: 30px;
+    padding-top: 40px;
 }
 .half-width img{
     width: 100%;
