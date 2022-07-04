@@ -5,6 +5,11 @@ body{
 .teel-color{
     color: #9CB4CC;
 }
+.lavender-color{
+    padding-left: 30px;
+    font-size: xx-large;
+    color: #9A86A4;
+}
 .half-width{
     width: 50%;
     padding: 30px;
@@ -28,5 +33,26 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-
-
+.middle-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.last-part{
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+    
+}
+#left-box{
+    border-left: 10px solid #3eadcf;
+}
+#right-box{
+    border-left: 10px solid #9A86A4;
+}
+footer{
+    padding-top: 50px;
+    text-align: center;
+}
